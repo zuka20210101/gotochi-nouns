@@ -1,16 +1,14 @@
 [
-    {
-      "tokenId": 394,
-      "image": "https://raw2.seadn.io/ethereum/0xc2671e1a7f8baa09f84e
-  0c68a90ce5df1d0dbc6b/85445593c931899e0166ca8e2054bf6f.svg",
-      "head": "ishikari",
-      "body": "melon"
-    },
-    {
-      "tokenId": 340,
-      "image": "https://raw2.seadn.io/ethereum/0xc2671e1a7f8baa09f84e
-  0c68a90ce5df1d0dbc6b/sample_hokkaido_340.svg",
-      "head": "sapporo",
-      "body": "crab"
-    }
-  ]
+  {
+    "tokenId": 394,
+    "image": "https://raw2.seadn.io/ethereum/0xc2671e1a7f8baa09f84e0c68a90ce5df1d0dbc6b/85445593c931899e0166ca8e2054bf6f.svg",
+    "head": "ishikari",
+    "body": "melon"
+  },
+  {
+    "tokenId": 340,
+    "image": "https://raw2.seadn.io/ethereum/0xc2671e1a7f8baa09f84e0c68a90ce5df1d0dbc6b/sample_hokkaido_340.svg",
+    "head": "sapporo",
+    "body": "crab"
+  }
+]
